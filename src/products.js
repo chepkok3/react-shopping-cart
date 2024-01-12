@@ -29,17 +29,17 @@ export const PRODUCTS = {
   },
   product5: {
     id: 5,
-    productName: 'Nokia G10',
+    productName: 'Huawei 5G',
     price: 99,
     productImage:
-      'https://m.media-amazon.com/images/I/81NgEMJiUZL._AC_UY436_FMwebp_QL65_.jpg',
+      'https://m.media-amazon.com/images/I/81Mya-dPIOL.__AC_SX300_SY300_QL70_FMwebp_.jpg',
   },
   product6: {
     id: 6,
-    productName: 'Moto G Stylus 5G',
+    productName: 'SAMSUNG Galaxy A34 5G',
     price: 134,
     productImage:
-      'https://m.media-amazon.com/images/I/51bfhhUKhTL._AC_UY436_FMwebp_QL65_.jpg',
+      'https://m.media-amazon.com/images/I/51Iq+ZuB+NL._AC_SX679_.jpg',
   },
   product7: {
     id: 7,
